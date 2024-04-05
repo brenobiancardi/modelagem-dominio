@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "exercicios",
+			"path": "exercicios"
+		},
+		{
+			"name": "ead",
+			"path": "ead"
+		}
+	],
+	"settings": {
+		"jest.disabledWorkspaceFolders": [
+			"modelagem-dominio"
+		]
+	}
+}
